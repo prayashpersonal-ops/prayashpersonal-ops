@@ -15,13 +15,13 @@
 ---
 
 ## 🚀 Projects
+- VITone  
 - AI Property Price Predictor  
 - Smart Notes App  
-- VITone Groceries  
 
 ---
 
 ## 📫 Connect
-- LinkedIn: (add later)
+- LinkedIn: https://www.linkedin.com/in/prayash-das-31b565374/
 
 ---
